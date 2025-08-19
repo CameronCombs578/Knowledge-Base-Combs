@@ -1,1 +1,0 @@
-Hello, my name is Cameron Combs. I am a second-year college student at Texas Tech, and my major is Computing Applications. I enjoy having meaningful discussions with my family. A fun fact about me is that I own chickens, from which I collect eggs.
