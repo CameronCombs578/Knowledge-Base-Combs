@@ -1,6 +1,7 @@
 ---
-title: Template for Knowledge Base Docs Websites
+title: Animal Habitats and Adaptations
 ---
+Animals are amazing creatures that live on Earth. Information on where these creatures live and how they survive has been collected throughout generations. This website provides information on these animals’ habitats and adaptations.
 ## The index page
 
 This is the index page (`content/index.md`) of your knowledge base docs. It serves as the home page for your website.
