@@ -8,7 +8,7 @@ This is the index page (`content/index.md`) of your knowledge base docs. It serv
 
 ## Main Topics
 - [[americas-habitats-animals/index.md|Americas' Habitats and Animals]]
-- [[africa-habitats-animals/index.md|Africa's Habitats and Animals]]
+- [[africa-habitats-animals/index|Africa's Habitats and Animals]]
 - [[europe-habitats-animals/index.md|Europe's Habitats and Animals]]
 - [[asia-habitats-animals/index.md|Asia's Habitats and Animals]]
 - [[australia-habitats-animals/index.md|Australia's Habitats and Animals]]
