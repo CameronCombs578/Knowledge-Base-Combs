@@ -2,9 +2,6 @@
 title: Animal Habitats and Adaptations
 ---
 Animals are amazing creatures that live on Earth. Information on where these creatures live and how they survive has been collected throughout generations. This website provides information on these animals’ habitats and adaptations.
-## The index page
-
-This is the index page (`content/index.md`) of your knowledge base docs. It serves as the home page for your website.
 
 ## Main Topics
 - [[americas-habitats-animals/index.md|Americas' Habitats and Animals]]
@@ -14,6 +11,10 @@ This is the index page (`content/index.md`) of your knowledge base docs. It serv
 - [[australia-habitats-animals/index.md|Australia's Habitats and Animals]]
 - [[antarctica-habitats-animals/index.md|Antarctica's Habitats and Animals]]
 - [[oceans-habitats-animals/index|Ocean's Habitats and Animals]]
+## The index page
+
+This is the index page (`content/index.md`) of your knowledge base docs. It serves as the home page for your website.
+
 ## Editing pages
 
 You can edit this index page by opening the `content/index.md` file (found in the `content/` folder) in a Markdown-specific app or any text editor. 
