@@ -1,3 +1,3 @@
 ---
-title: Animal Habitats and Adaptations in African
+title: Animal Habitats and Adaptations in Africa
 ---
