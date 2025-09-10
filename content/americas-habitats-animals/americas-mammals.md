@@ -3,6 +3,9 @@ title: Mammals' Habitats and Adaptations in the Americas
 ---
 # Introduction
 
+>_"The greatness of a nation and its moral progress can be judged by the way its animals are treated."_
+>— Mahatma Gandhi (often applied broadly, including mammals)
+
 Mammals are warm-blooded animals that live in the Americas. They are distinct from other animals because of their hair and fur. In this section, mammals' habitats and adaptations are explored.
 ### Habitats
 

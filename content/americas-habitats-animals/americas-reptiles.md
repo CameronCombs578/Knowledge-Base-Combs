@@ -3,6 +3,9 @@ title: Reptiles' Habitats and Adaptations in the Americas
 ---
 # Introduction
 
+>"Reptiles are survivors; they carry with them the history of ancient worlds."
+>— Adapted from Karl P. Schmidt (herpetologist)
+
 Animals with dry, scaly, or rough and bumpy skin normally indicate that the creature is a reptile. There is a large range of reptiles equipped with amazing abilities. The following section discusses the habitats and adaptations of reptiles.
 ### Habitats
 

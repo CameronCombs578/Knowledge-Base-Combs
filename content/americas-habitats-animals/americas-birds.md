@@ -3,6 +3,9 @@ title: Birds' Habitats and Adaptations in the Americas
 ---
 # Introduction
 
+>_"Birds are indicators of the environment. If they are in trouble, we know we’ll soon be in trouble."_ 
+>— Roger Tory Peterson (ornithologist)
+
 Birds are creatures unlike any others. With their unique ability to soar across the sky and sharp beaks, these creatures are able to be easily identified. This section discusses birds' habitats and adaptations.
 ### Habitats
 

@@ -3,6 +3,9 @@ title: Amphibians' Habitats and Adaptations in the Americas
 ---
 # Introduction
 
+>_"Amphibians are the environmental canaries in the coal mine, telling us when ecosystems are in trouble."_ 
+>— Adapted from David B. Wake (herpetologist)
+
 North America is rich in a diverse collection of creatures, especially when it relates to amphibians. **Amphibians** are **cold-blooded vertebrate** animals, meaning that they change their body temperature depending on their environment. This section discusses these creatures' environments and how they adapt to them.
 ### Habitats
 

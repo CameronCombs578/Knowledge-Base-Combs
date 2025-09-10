@@ -3,6 +3,9 @@ title: Fish Habitats and Adaptations in the Americas
 ---
 # Introduction
 
+>"In every drop of water, there is a story of life."
+>— Leena Arif
+
 Fish are creatures that live underwater and in environments unlike animals on the surface. These creatures are cold-blooded, limbless, and breathe underwater. This section covers fish habitats and adaptations in the Americas.
 ### Habitats
 
