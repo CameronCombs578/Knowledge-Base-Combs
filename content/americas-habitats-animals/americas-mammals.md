@@ -35,6 +35,6 @@ Below are multiple mammals that live and adapt in the environments discussed abo
 	- Food: Eats various mammals and [[americas-reptiles|reptiles]] such as snakes and turtles.
 	- Amazing Fact: 
 		- The largest cat in South America 
-### Summary
+## Summary
 
 Mammals have a wide range of locations and abilities. They can live in nearly every environment and are warm-blooded creatures. The Americas are rich in a diverse selection of mammals.

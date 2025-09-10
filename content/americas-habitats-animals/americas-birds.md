@@ -30,6 +30,6 @@ Some birds that live in forests include:
 	- Food: Small flying insects.
 	- Amazing Fact: 
 		- Able to create tunnels to lay their eggs in.
-### Summary
+## Summary
 
 Birds are unique creatures located in the Americas. Their ability to fly in environments such as forests, mountains, and others makes them stand out from other creatures living in the Americas.

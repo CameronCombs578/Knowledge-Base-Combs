@@ -31,6 +31,6 @@ Some fish that live in the Americas include:
 	- Food: Eats fish, insects, and  some [[americas-mammals|mammals]].
 	- Amazing Fact: 
 		- Large Piranhas' jaws are capable of amputate a human's hand in 1-3 bites.
-### Summary
+## Summary
 
 Fish in the Americas are amazing creatures ranging in size and color. Fish can be found in practically every large body of water, making them great creatures to study.

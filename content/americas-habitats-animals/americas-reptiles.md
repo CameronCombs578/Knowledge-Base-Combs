@@ -32,6 +32,6 @@ Below are reptiles discussed in detail:
 	- Food: Eats various creatures such as [[americas-fish|fish]], [[americas-amphibians|amphibians]], and [[americas-mammals|mammals]].
 	- Amazing Fact: 
 		- Females allow their young to enter into their mouth when threatened.
-### Summary
+## Summary
 
 Reptiles are rough-skinned creatures that live in forests, deserts, swamps, and other environments. They are equipped with special skin allowing them to live in diverse environments. These are amazing creatures that live in the Americas.
