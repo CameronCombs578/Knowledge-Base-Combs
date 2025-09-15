@@ -6,7 +6,7 @@ title: Fish Habitats and Adaptations in the Americas
 >"In every drop of water, there is a story of life."
 >— Leena Arif
 
-Fish are creatures that live underwater and in environments unlike animals on the surface. These creatures are cold-blooded, limbless, and breathe underwater. This section covers fish habitats and adaptations in the Americas.
+Fish are creatures that live underwater and in environments unlike animals on the surface. These creatures are cold-blooded, limbless, and breathe underwater. Many [[americas-birds|birds]] eat these kinds of creatures. This section covers fish habitats and adaptations in the Americas.
 ### Habitats
 
 Fish can live in rivers, ponds, and oceans. Places such as the Amazon River are rich in diverse kinds of fish. Nearly every large portion of water contains some amount of fish.
@@ -28,7 +28,7 @@ Some fish that live in the Americas include:
 	- Size: 6-24".
 	- Weight: 2-4 lbs.
 	- Location: Freshwater in South America.
-	- Food: Eats fish, insects, and  some [[americas-mammals|mammals]].
+	- Food: Eats fish, insects, and some [[americas-mammals|mammals]].
 	- Amazing Fact: 
 		- Large Piranhas' jaws are capable of amputate a human's hand in 1-3 bites.
 ## Summary
