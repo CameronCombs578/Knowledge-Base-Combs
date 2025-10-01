@@ -1,10 +1,9 @@
 ---
 title: Reptiles' Habitats and Adaptations in the Americas
 ---
-# Introduction
-
 >“Reptiles are survivors; they carry with them the history of ancient worlds.” 
 >— Adapted from Karl P. Schmidt (herpetologist)
+# Introduction
 
 
 ![[Reptiles_2021_collage.jpg]]
@@ -20,20 +19,24 @@ These creatures are able to thrive in such environments for many reasons. Dry, r
 Below are reptiles discussed in detail:
 
 
-- [Green Anaconda](https://tse2.mm.bing.net/th/id/OIP.WpPU6p9xJwG1mu647vLreAHaE8?rs=1&pid=ImgDetMain&o=7&rm=3):
-	- Size: 18-25'.
-	- Weight: up to 300 lbs.
-	- Location: Rainforests and swamps of South America.
-	- Food: aquatic and semi-aquatic animals.
+- [Green Tree Python](https://tse1.mm.bing.net/th/id/OIP.vfzYLogsAzX6cpT7pbUo2QHaE8?rs=1&pid=ImgDetMain&o=7&rm=3):
+	- length: up to 16.5'. Normally half this size.
+	- Weight: up to 20 lbs. However, it is normally 6.5-13 lbs.
+	- Location: Mainland Australia.
+	- Adaptation:
+		- Uses its warm blood detection ability to identify locations where birds and bats are. This skill allows it to easily find its meal. Also, this animal has a heating system that helps it know whether or not its environment has an ideal temperature.
+	- Food: It can eat [[australia-birds|birds]] and small [[australia-mammals|mammals.]]
 	- Amazing Fact: 
-		- This creature is able to squeeze animals such as alligators to death.
-- [Spectacled Caiman](https://cdn.britannica.com/64/255864-050-419DBB2A/adult-spectacled-caiman-bril-kaaiman-caiman-crocodilus.jpg)
-	- Size: 3-10'.
-	- Weight: 660 lbs.
-	- Location: Northern parts of South America.
-	- Food: Eats various creatures such as [[americas-habitats-animals/americas-fish|fish]], [[americas-habitats-animals/americas-amphibians|amphibians]], and [[americas-habitats-animals/americas-mammals|mammals]].
+		- These creatures can come in blue and yellow color.
+- [Eastern Snake-Necked Turtle](https://tse1.explicit.bing.net/th/id/OIP.qWwDjVhuHPZmgQ0jSruwSgHaHa?rs=1&pid=ImgDetMain&o=7&rm=3)
+	- Length Carapace: 5-11".
+	- Weight: Unknown lbs.
+	- Location: South Australia.
+	- Adaptation:
+		- It uses its exceptional sight and smell to identify its prey. It extends it long neck to capture its prey. 
+	- Food: Eats various creatures such as [[australia-fish|fish]] and [[australia-habitats-animals/australia-amphibians|amphibians]].
 	- Amazing Fact: 
-		- Females allow their young to enter into their mouth when threatened.
+		- This creatures neck has 8 vertebrae, which allows its neck to bend in multiple directions.
 ## Summary
 
 Reptiles are rough-skinned creatures that live in forests, deserts, swamps, and other environments. They are equipped with special skin allowing them to live in diverse environments. These are amazing creatures that live in the Americas.

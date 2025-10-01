@@ -1,5 +1,5 @@
 ---
-title: Birds' Habitats and Adaptations in the Americas
+title: Birds' Habitats and Adaptations in Asia
 ---
 # Introduction
 
@@ -16,22 +16,22 @@ Birds are able to use their flying abilities to catch creatures in the air. Some
 ### Animals
 
 Some birds that live in forests include:  
-- [Herring Gull](https://cdn.download.ams.birds.cornell.edu/api/v1/asset/71319331/1800):
-	- Size: 1.8-2.2'.
-	- Weight: 1.5-3 lbs.
-	- Location: Breeds in northern parts of the United States of America.
-	- Food: plants, [[americas-habitats-animals/americas-fish|fish]], and worms are a part of its diet.
+- [Pheasant-tailed Jacana](https://tse2.mm.bing.net/th/id/OIP.ehcqZEH-qPS0P2pudmiIAQHaE8?rs=1&pid=ImgDetMain&o=7&rm=3):
+	- Length: 2' including tail.
+	- Weight: 4-6.5 oz.
+	- Location: Southeast Asia.
+	- Adaptation:
+		- Uses its strong swimming abilities to locate roots. These abilities allow the bird to thrive in its habitat.
+	- Food: This animal can eat roots, seeds, and some small creatures.
 	- Amazing Fact: 
-		- Follows fishing boats to eat meals.
-- [Bank Swallow](https://tse3.mm.bing.net/th/id/OIP.vJmTXrIHPnRpRc7Pqp0VrgAAAA?rs=1&pid=ImgDetMain&o=7&rm=3)
+		- Its long toes enable it to stand on floating vegetation.
+- [Barn Swallow](https://tse3.mm.bing.net/th/id/OIP.vJmTXrIHPnRpRc7Pqp0VrgAAAA?rs=1&pid=ImgDetMain&o=7&rm=3)
 	- Size: up to 4.5-5".
 	- Weight: 0.4-0.5 oz.
-	- Location: Found in the majority of parts of both North and South America.
+	- Location: Southeast Asia
 	- Food: Small flying insects.
 	- Amazing Fact: 
 		- Able to create tunnels to lay their eggs in.
-
-![[List_of_birds_of_the_United_States.pdf]]
 ## Summary
 
 Birds are unique creatures located in the Americas. Their ability to fly in environments such as forests, mountains, and others makes them stand out from other creatures living in the Americas.

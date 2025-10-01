@@ -27,7 +27,7 @@ Here are a few amphibians discussed above:
 		- Tadpole: 10"
 	- Weight: 0.3-0.6 oz.
 	- Location: Tropical low lands in South America.
-	- Food: Small [[americas-fish|aquatic animals]], worms, and larvae.
+	- Food: Small [[americas-habitats-animals/americas-fish|aquatic animals]], worms, and larvae.
 	- Amazing Fact: 
 		- Actually numbers are unknown because they are rarely seen.
 - [North American Lungless Salamanders](https://tse1.explicit.bing.net/th/id/OIP.Aj2oHWWOnvQqSsDPME3ZVQHaEW?rs=1&pid=ImgDetMain&o=7&rm=3)
@@ -39,4 +39,4 @@ Here are a few amphibians discussed above:
 		- Changes color throughout its growth.
 ## Summary
 
-Amphibians are cold-blooded creatures that live in wet areas such as the Amazon Rainforest. These creatures can range from frogs to salamanders, which thrive in these special habitats. These creatures can also be food for [[americas-reptiles|reptiles.]]
+Amphibians are cold-blooded creatures that live in wet areas such as the Amazon Rainforest. These creatures can range from frogs to salamanders, which thrive in these special habitats. These creatures can also be food for [[americas-habitats-animals/americas-reptiles|reptiles.]]

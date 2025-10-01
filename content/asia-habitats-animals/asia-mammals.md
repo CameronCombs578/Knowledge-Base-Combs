@@ -32,7 +32,7 @@ Below are multiple mammals that live and adapt in the environments discussed abo
 		- Males: 100-250 lbs.
 		- Females: 70-170 lbs.
 	- Location: South America forest (e.g. Amazon Rainforest)
-	- Food: Eats various mammals and [[americas-habitats-animals/americas-reptiles|reptiles]] such as snakes and turtles.
+	- Food: Eats various mammals and [[antarctica-reptiles|reptiles]] such as snakes and turtles.
 	- Amazing Fact: 
 		- The largest cat in South America 
 ## Summary

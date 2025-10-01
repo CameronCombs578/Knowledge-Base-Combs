@@ -20,7 +20,7 @@ Some birds that live in forests include:
 	- Size: 1.8-2.2'.
 	- Weight: 1.5-3 lbs.
 	- Location: Breeds in northern parts of the United States of America.
-	- Food: plants, [[americas-habitats-animals/americas-fish|fish]], and worms are a part of its diet.
+	- Food: plants, [[antarctica-fish|fish]], and worms are a part of its diet.
 	- Amazing Fact: 
 		- Follows fishing boats to eat meals.
 - [Bank Swallow](https://tse3.mm.bing.net/th/id/OIP.vJmTXrIHPnRpRc7Pqp0VrgAAAA?rs=1&pid=ImgDetMain&o=7&rm=3)
