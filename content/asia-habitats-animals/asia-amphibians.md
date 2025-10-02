@@ -1,6 +1,9 @@
 ---
 title: Amphibians' Habitats and Adaptations in Asia
 ---
+---
+date: 2025-10-1
+---
 # Introduction
 
 >_"Amphibians are the environmental canaries in the coal mine, telling us when ecosystems are in trouble."_ 

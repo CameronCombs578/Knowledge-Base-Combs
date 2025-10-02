@@ -1,6 +1,9 @@
 ---
 title: Fish Habitats and Adaptations in Australia
 ---
+---
+date: 2025-10-2
+---
 # Introduction
 
 >"In every drop of water, there is a story of life."

@@ -1,6 +1,9 @@
 ---
 title: The Ocean's Habitats and Animals
 ---
+---
+date: 2025-10-2
+---
 Click link to return to the [[index|Main Categories Page]].
 # Introduction
 

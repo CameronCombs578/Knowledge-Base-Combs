@@ -1,6 +1,9 @@
 ---
 title: Birds' Habitats and Adaptations in the Americas
 ---
+---
+date: 2025-10-1
+---
 # Introduction
 
 >_"Birds are indicators of the environment. If they are in trouble, we know we’ll soon be in trouble."_ 

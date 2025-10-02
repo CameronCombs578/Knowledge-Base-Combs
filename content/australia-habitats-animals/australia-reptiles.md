@@ -1,9 +1,14 @@
 ---
 title: Reptiles' Habitats and Adaptations in the Americas
 ---
+---
+date: 2025-10-1
+---
+# Introduction
+
 >“Reptiles are survivors; they carry with them the history of ancient worlds.” 
 >— Adapted from Karl P. Schmidt (herpetologist)
-# Introduction
+
 
 
 ![[Reptiles_2021_collage.jpg]]

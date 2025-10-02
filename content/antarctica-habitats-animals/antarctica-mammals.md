@@ -1,6 +1,9 @@
 ---
 title: Mammals' Habitats and Adaptations in Antarctica
 ---
+---
+date: 2025-10-1
+---
 # Introduction
 
 >_"The greatness of a nation and its moral progress can be judged by the way its animals are treated."_
