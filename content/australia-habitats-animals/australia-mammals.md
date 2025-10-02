@@ -13,28 +13,21 @@ These creatures, unlike others, are not as limited to their environments. They a
 ### Adaptations
 
 Mammals that live in grasslands either eat vegetation, fruit from the trees, or other animals in the fields. In forests, mammals live either in the trees or by the trees. In swamps and tundra environments, mammals can eat and live underwater and on land. 
-### Animals
+### Animal Example
 
-Below are multiple mammals that live and adapt in the environments discussed above:
+Here is an mammal that lives in Australia.
 
-- [Black Bear](https://wallpaperaccess.com/full/3470476.jpg):
-	- Size: 5-6'.
-	- Weight
-		- Males: up to 253-954 lbs.
-		- Females: up to 220-308 lbs.
-	- Location: Central part of North America.
-	- Food: Plants, berries, fruits, and mammals are what this creature eats.
+- [Bilby](https://th.bing.com/th/id/R.24e13620be5b7efbf71803152a5ca3f8?rik=5pGgcob9FBnriw&pid=ImgRaw&r=0):
+	- Length Head/Body: 
+		- Male: 12-22"
+		- Female: 11.5-15.5".
+	- Weight: 0.5-4 lbs.
+	- Location: North-west parts of Australia.
+	- Adaptation:
+		- To battle the heat in its habitats, this creature spends the day underground and comes to the surface during the night when temperature have dropped.
+	- Food: This animal eats food such as insects, worms, and seeds.
 	- Amazing Fact: 
-		- The bear can temporarily travel at 24 mph for short ranges.
-- [Jaguar](https://th.bing.com/th/id/R.039d5b75f3e215098f0cc330f3bd8627?rik=ydXEkAl6gIRfKw&pid=ImgRaw&r=0)
-	- Size: 3-4'.
-	- Weight: 
-		- Males: 100-250 lbs.
-		- Females: 70-170 lbs.
-	- Location: South America forest (e.g. Amazon Rainforest)
-	- Food: Eats various mammals and [[antarctica-reptiles|reptiles]] such as snakes and turtles.
-	- Amazing Fact: 
-		- The largest cat in South America 
+		- This animal uses its snout to find its food in the sand.
 ## Summary
 
 Mammals have a wide range of locations and abilities. They can live in nearly every environment and are warm-blooded creatures. The Americas are rich in a diverse selection of mammals.

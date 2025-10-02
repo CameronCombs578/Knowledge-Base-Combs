@@ -1,5 +1,5 @@
 ---
-title: Birds' Habitats and Adaptations in the Americas
+title: Birds' Habitats and Adaptations in Europe
 ---
 # Introduction
 
@@ -9,29 +9,22 @@ title: Birds' Habitats and Adaptations in the Americas
 Birds are creatures unlike any others. With their unique ability to soar across the sky and sharp beaks, these creatures are able to be easily identified. This section discusses birds' habitats and adaptations.
 ### Habitats
 
-Birds live in diverse places across the world. In the Americas, birds can live in wetlands, forests, mountains, and grasslands. Places such as the rainforest, mountains, and coasts. These creatures are able to adapt to their surroundings in amazing ways.
+Birds live in diverse places across the world. In Europe, birds can live in wetlands, forests, mountains, and grasslands. Places such as the rainforest, mountains, and coasts. These creatures are able to adapt to their surroundings in amazing ways.
 ### Adaptations
 
 Birds are able to use their flying abilities to catch creatures in the air. Some are able to dive into bodies of water to catch creatures. These are a few ways that these creatures survive in their environments.
-### Animals
+### Animal Example
 
-Some birds that live in forests include:  
-- [Herring Gull](https://cdn.download.ams.birds.cornell.edu/api/v1/asset/71319331/1800):
-	- Size: 1.8-2.2'.
-	- Weight: 1.5-3 lbs.
-	- Location: Breeds in northern parts of the United States of America.
-	- Food: plants, [[antarctica-fish|fish]], and worms are a part of its diet.
+Here is an example of an bird that lives in Europe.  
+- [Common Loon](https://th.bing.com/th/id/R.c1548364cdb2191d55d7068b87bea106?rik=ntrR%2flswr9CizA&pid=ImgRaw&r=0):
+	- Length: 27-36".
+	- Weight: 6-10 lbs.
+	- Location: Northern parts of Europe such as Greenland and Iceland
+	- Adaptation:
+		- This creature uses its skills at swimming to catch underwater creatures. It normally uses its feet when swimming. However, it will use its wings for steering at times.
+	- Food: Some of the food that this creature eats include [[europe-fish|fish,]] aquatic insects, and vegetation.
 	- Amazing Fact: 
-		- Follows fishing boats to eat meals.
-- [Bank Swallow](https://tse3.mm.bing.net/th/id/OIP.vJmTXrIHPnRpRc7Pqp0VrgAAAA?rs=1&pid=ImgDetMain&o=7&rm=3)
-	- Size: up to 4.5-5".
-	- Weight: 0.4-0.5 oz.
-	- Location: Found in the majority of parts of both North and South America.
-	- Food: Small flying insects.
-	- Amazing Fact: 
-		- Able to create tunnels to lay their eggs in.
-
-![[List_of_birds_of_the_United_States.pdf]]
+		- Chick uses their parents back as a diving board and riding platform.
 ## Summary
 
-Birds are unique creatures located in the Americas. Their ability to fly in environments such as forests, mountains, and others makes them stand out from other creatures living in the Americas.
+Birds are unique creatures located in Europe. Their ability to fly in environments such as forests, mountains, and others makes them stand out from other creatures living in Europe.
