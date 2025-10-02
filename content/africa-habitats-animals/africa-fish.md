@@ -1,36 +1,33 @@
 ---
-title: Fish Habitats and Adaptations in the Americas
+title: Fish Habitats and Adaptations in Africa
 ---
 # Introduction
 
 >"In every drop of water, there is a story of life."
 >— Leena Arif
 
-Fish are creatures that live underwater and in environments unlike animals on the surface. These creatures are cold-blooded, limbless, and breathe underwater. Many [[americas-habitats-animals/americas-birds|birds]] eat these kinds of creatures. This section covers fish habitats and adaptations in the Americas.
+Fish are creatures that live underwater and in environments unlike animals on the surface. These creatures are cold-blooded, limbless, and breathe underwater. Many [[africa-habitats-animals/africa-birds|birds]] eat these kinds of creatures. This section covers fish habitats and adaptations in Africa.
 ### Habitats
 
 Fish can live in rivers, ponds, and oceans. Places such as the Amazon River are rich in diverse kinds of fish. Nearly every large portion of water contains some amount of fish.
 ### Adaptations
 
 Fish are able to adapt to their environments by using their gills to extract oxygen from water and by moving to the surface to take in oxygen. Also, they use their fins to navigate through their environments. These abilities enable them to survive in underwater conditions.
-### Animals
+### Animal Example
 
-Some fish that live in the Americas include:  
+Here is a fish that lives in Africa.
 
-- [Lemon Shark](https://th.bing.com/th/id/R.913385d40b24f4494d2c2b0bf94aeb4a?rik=CKf6ijkBvi0XSg&pid=ImgRaw&r=0):
-	- Size: up to 10.5'.
-	- Weight: 265-330 lbs.
-	- Location: Coast of North and South America.
-	- Food: Eats animals such as fish, sharks, and rays
+- [Common Cuttlefish](https://tse1.mm.bing.net/th/id/OIP.XtDuwMwoONBKBPdSN-vcOwAAAA?cb=12&rs=1&pid=ImgDetMain&o=7&rm=3)
+	- Size: 
+		- Head/Body: about 15".
+		- Tentacles: about 20".
+	- Weight: Unknown.
+	- Location: The shallow waters surrounding Africa.
+	- Adaptation:
+		- Normally this animal stalks its prey during the night. When it comes closer to its prey, it uses its tentacles to capture its prey and pull it towards its beaklike mouth.
+	- Food: This creature eats multiple creatures including [[africa-fish|fish.]]
 	- Amazing Fact: 
-		- Capable of learning how to strike targets to obtain rewards.
-- [Piranhas](https://media.istockphoto.com/photos/flock-of-piranhas-swim-nature-wildlife-picture-id539057469?k=6&m=539057469&s=612x612&w=0&h=tTiE3--WX_cIZ3eh6zFEkOeF9A1Tbf_evQLhm-2Tgtk=)
-	- Size: 6-24".
-	- Weight: 2-4 lbs.
-	- Location: Freshwater in South America.
-	- Food: Eats fish, insects, and some [[americas-habitats-animals/americas-mammals|mammals]].
-	- Amazing Fact: 
-		- Large Piranhas' jaws are capable of amputate a human's hand in 1-3 bites.
+		- It has the ability to instantly change its color.
 ## Summary
 
-Fish in the Americas are amazing creatures ranging in size and color. Fish can be found in practically every large body of water, making them great creatures to study.
+Fish in Africa are amazing creatures ranging in size and color. Fish can be found in practically every large body of water, making them great creatures to study.

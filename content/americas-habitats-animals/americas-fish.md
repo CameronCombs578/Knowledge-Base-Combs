@@ -13,7 +13,7 @@ Fish can live in rivers, ponds, and oceans. Places such as the Amazon River are 
 ### Adaptations
 
 Fish are able to adapt to their environments by using their gills to extract oxygen from water and by moving to the surface to take in oxygen. Also, they use their fins to navigate through their environments. These abilities enable them to survive in underwater conditions.
-### Animals
+### Animal Example
 
 Some fish that live in the Americas include:  
 

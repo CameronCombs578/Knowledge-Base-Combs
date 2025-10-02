@@ -1,6 +1,7 @@
 ---
 title: Animal Habitats and Adaptations in the Americas
 ---
+Click link to return to the [[index|Main Categories Page]].
 ## Related Categories
 
 Many animals that live in North America Also live in [[europe-habitats-animals1/index|Europe.]]
