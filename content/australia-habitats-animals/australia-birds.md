@@ -1,5 +1,5 @@
 ---
-title: Birds' Habitats and Adaptations in the Americas
+title: Birds' Habitats and Adaptations in Australia
 ---
 ---
 date: 2025-10-1
@@ -12,7 +12,7 @@ date: 2025-10-1
 Birds are creatures unlike any others. With their unique ability to soar across the sky and sharp beaks, these creatures are able to be easily identified. This section discusses birds' habitats and adaptations.
 ### Habitats
 
-Birds live in diverse places across the world. In the Americas, birds can live in wetlands, forests, mountains, and grasslands. Places such as the rainforest, mountains, and coasts. These creatures are able to adapt to their surroundings in amazing ways.
+Birds live in diverse places across the world. In Australia, birds can live in wetlands, forests, mountains, and grasslands. Places such as the rainforest, mountains, and coasts. These creatures are able to adapt to their surroundings in amazing ways.
 ### Adaptations
 
 Birds are able to use their flying abilities to catch creatures in the air. Some are able to dive into bodies of water to catch creatures. These are a few ways that these creatures survive in their environments.
@@ -30,4 +30,4 @@ Here is an example of a bird that lives in Australia:
 		- These creatures are normally tamed enough to eat from a human's hand.
 ## Summary
 
-Birds are unique creatures located in the Americas. Their ability to fly in environments such as forests, mountains, and others makes them stand out from other creatures living in the Americas.
+Birds are unique creatures located in Australia. Their ability to fly in environments such as forests, mountains, and others makes them stand out from other creatures living in Australia.

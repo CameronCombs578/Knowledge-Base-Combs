@@ -1,5 +1,5 @@
 ---
-title: Amphibians' Habitats and Adaptations in the Americas
+title: Amphibians' Habitats and Adaptations in Europe
 ---
 ---
 date: 2025-10-1
@@ -9,7 +9,7 @@ date: 2025-10-1
 >_"Amphibians are the environmental canaries in the coal mine, telling us when ecosystems are in trouble."_ 
 >— Adapted from David B. Wake (herpetologist)
 
-North America is rich in a diverse collection of creatures, especially when it relates to amphibians. **Amphibians** are **cold-blooded vertebrate** animals, meaning that they change their body temperature depending on their environment. This section discusses these creatures' environments and how they adapt to them.
+Europe has many collections of creatures, especially when it relates to amphibians. **Amphibians** are **cold-blooded vertebrate** animals, meaning that they change their body temperature depending on their environment. This section discusses these creatures' environments and how they adapt to them.
 ### Habitats
 
 Amphibians are located near wet areas such as rivers, moist forests, and swamps. These creatures operate on land and in the water, giving them a unique quality. Listed below are places in Europe where amphibians live:

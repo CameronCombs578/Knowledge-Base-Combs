@@ -9,7 +9,7 @@ date: 2025-10-2
 >"In every drop of water, there is a story of life."
 >— Leena Arif
 
-Fish are creatures that live underwater and in environments unlike animals on the surface. These creatures are cold-blooded, limbless, and breathe underwater. Many [[antarctica-birds|birds]] eat these kinds of creatures. This section covers fish habitats and adaptations in the Americas.
+Fish are creatures that live underwater and in environments unlike animals on the surface. These creatures are cold-blooded, limbless, and breathe underwater. Many [[antarctica-birds|birds]] eat these kinds of creatures. This section covers fish habitats and adaptations in Europe.
 ### Habitats
 
 Fish can live in rivers, ponds, and oceans. Places such as the Amazon River are rich in diverse kinds of fish. Nearly every large portion of water contains some amount of fish.
@@ -29,4 +29,4 @@ Here is a fish that lives in Europe.
 		- This creature uses bones in the back of its mouth to chew its prey because it does not have teeth.
 ## Summary
 
-Fish in the Americas are amazing creatures ranging in size and color. Fish can be found in practically every large body of water, making them great creatures to study.
+Fish in Europe are amazing creatures ranging in size and color. Fish can be found in practically every large body of water, making them great creatures to study.

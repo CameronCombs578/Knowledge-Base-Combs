@@ -1,5 +1,5 @@
 ---
-title: Animal Habitats and Adaptations in the Americas
+title: Animal Habitats and Adaptations in Asia
 ---
 ---
 date: 2025-10-2

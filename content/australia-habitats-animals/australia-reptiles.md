@@ -1,5 +1,5 @@
 ---
-title: Reptiles' Habitats and Adaptations in the Americas
+title: Reptiles' Habitats and Adaptations in Australia
 ---
 ---
 date: 2025-10-1
@@ -15,7 +15,7 @@ date: 2025-10-1
 
 ### Habitats
 
-Reptiles normally live in wet areas, deserts, and forests. These habitats allow some to camouflage in their surroundings, which enables them to more easily catch their prey that live in these regions, such as [[americas-habitats-animals/americas-amphibians|amphibians]]. 
+Reptiles normally live in wet areas, deserts, and forests. These habitats allow some to camouflage in their surroundings, which enables them to more easily catch their prey that live in these regions, such as [[australia-habitats-animals/australia-amphibians|amphibians]]. 
 ### Adaptations
 
 These creatures are able to thrive in such environments for many reasons. Dry, rough, and bumpy skin allows these creatures to live in environments where there is limited water. Their ability to lay eggs also provides food for the parents and other creatures. Certain reptiles are also equipped with sharp teeth, poison, or shells, which enable them to adapt to their environments.
@@ -44,4 +44,4 @@ Below are reptiles discussed in detail:
 		- This creatures neck has 8 vertebrae, which allows its neck to bend in multiple directions.
 ## Summary
 
-Reptiles are rough-skinned creatures that live in forests, deserts, swamps, and other environments. They are equipped with special skin allowing them to live in diverse environments. These are amazing creatures that live in the Americas.
+Reptiles are rough-skinned creatures that live in forests, deserts, swamps, and other environments. They are equipped with special skin allowing them to live in diverse environments. These are amazing creatures that live in Australia.

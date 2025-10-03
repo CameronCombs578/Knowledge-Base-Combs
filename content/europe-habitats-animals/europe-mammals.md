@@ -1,5 +1,5 @@
 ---
-title: Mammals' Habitats and Adaptations in the Americas
+title: Mammals' Habitats and Adaptations in Europe
 ---
 ---
 date: 2025-10-1
@@ -33,4 +33,4 @@ Here is an mammal that lives in Europe
 		- Females huddle together in large groups during daylight
 ## Summary
 
-Mammals have a wide range of locations and abilities. They can live in nearly every environment and are warm-blooded creatures. The Americas are rich in a diverse selection of mammals.
+Mammals have a wide range of locations and abilities. They can live in nearly every environment and are warm-blooded creatures. Europe is rich in a diverse selection of mammals.
