@@ -7,7 +7,7 @@ date: 2025-10-2
 Click link to return to the [[index|Main Categories Page]].
 ## Related Categories
 
-Many animals that live in North America Also live in [[europe-habitats-animals1/index|Europe.]]
+Many animals that live in Europe Also live in [[americas-habitats-animals/index|North America]].
 ## Animal Habitats and Adaptations in Europe Categories
 
 - [[europe-mammals|Mammal's Habitats and Adaptations in Europe]].
