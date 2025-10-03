@@ -4,6 +4,7 @@ title: Amphibians' Habitats and Adaptations in Africa
 ---
 date: 2025-10-1
 ---
+Click [[africa-habitats-animals/index|here]] to return to the index file for this category.
 # Introduction
 
 >_"Amphibians are the environmental canaries in the coal mine, telling us when ecosystems are in trouble."_ 

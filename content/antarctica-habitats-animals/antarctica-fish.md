@@ -4,6 +4,7 @@ title: Fish Habitats and Adaptations in Antarctica
 ---
 date: 2025-10-2
 ---
+Click [[antarctica-habitats-animals/index|here]] to return to the index file for this category.
 # Introduction
 
 >"In every drop of water, there is a story of life."
@@ -31,4 +32,4 @@ Some fish that live in Antarctica include:
 		- This creature is excellent in its sense of sight and smell.
 ## Summary
 
-Fish in Antarctica are amazing creatures ranging in size and color. Fish can be found in practically every large body of water, making them great creatures to study.
+Fish in Antarctica are amazing creatures ranging in size and color. Fish can be found in practically every large body of water, making them great creatures to study. Some fish can be food for a mammal called [[antarctica-mammals|Orca]].

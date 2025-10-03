@@ -4,7 +4,7 @@ title: The Ocean's Habitats and Animals
 ---
 date: 2025-10-2
 ---
-Click link to return to the [[index|Main Categories Page]].
+Click [[oceans-habitats-animals/index|here]] to return to the index file for this category.
 # Introduction
 
 The Earth is known as the Blue Planet because of the amount of water that takes up the world. Even though the oceans take up about 71 percent of the world, very little information has been collect about there inhabitants and habitats. However, this section will discuss some of the information that has been collected from the oceans as they relate to animal habitats and adaptations.

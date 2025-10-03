@@ -4,6 +4,7 @@ title: Fish Habitats and Adaptations in the Americas
 ---
 date: 2025-10-2
 ---
+Click [[americas-habitats-animals/index|here]] to return to the index file for this category.
 # Introduction
 
 >"In every drop of water, there is a story of life."

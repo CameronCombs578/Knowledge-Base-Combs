@@ -4,6 +4,7 @@ title: Mammals' Habitats and Adaptations in Asia
 ---
 date: 2025-10-1
 ---
+Click [[asia-habitats-animals/index|here]] to return to the index file for this category.
 # Introduction
 
 >_"The greatness of a nation and its moral progress can be judged by the way its animals are treated."_
@@ -29,4 +30,4 @@ Here is an mammal that lives in Asia.
 		- This mammal easts around 28 pounds of bamboo a day.
 ## Summary
 
-Mammals have a wide range of locations and abilities. They can live in nearly every environment and are warm-blooded creatures. Asia is rich in a diverse selection of mammals.
+Mammals have a wide range of locations and abilities. They can live in nearly every environment and are warm-blooded creatures. Asia is rich in a diverse selection of mammals. Multiple mammals eat [[asia-fish|fish]].

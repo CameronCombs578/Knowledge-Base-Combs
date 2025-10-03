@@ -4,6 +4,7 @@ title: Fish Habitats and Adaptations in Africa
 ---
 date: 2025-10-2
 ---
+Click [[africa-habitats-animals/index|here]] to return to the index file for this category.
 # Introduction
 
 >"In every drop of water, there is a story of life."
@@ -28,9 +29,9 @@ Here is a fish that lives in Africa.
 	- Location: The shallow waters surrounding Africa.
 	- Adaptation:
 		- Normally this animal stalks its prey during the night. When it comes closer to its prey, it uses its tentacles to capture its prey and pull it towards its beaklike mouth.
-	- Food: This creature eats multiple creatures including [[africa-fish|fish.]]
+	- Food: This creature eats multiple creatures including fish.
 	- Amazing Fact: 
 		- It has the ability to instantly change its color.
 ## Summary
 
-Fish in Africa are amazing creatures ranging in size and color. Fish can be found in practically every large body of water, making them great creatures to study.
+Fish in Africa are amazing creatures ranging in size and color. Fish can be found in practically every large body of water, making them great creatures to study. These creatures can also be food for some [[africa-mammals|mammals]] and [[africa-reptiles|reptiles]].

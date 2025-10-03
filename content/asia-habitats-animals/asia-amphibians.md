@@ -4,6 +4,7 @@ title: Amphibians' Habitats and Adaptations in Asia
 ---
 date: 2025-10-1
 ---
+Click [[asia-habitats-animals/index|here]] to return to the index file for this category.
 # Introduction
 
 >_"Amphibians are the environmental canaries in the coal mine, telling us when ecosystems are in trouble."_ 
@@ -46,4 +47,4 @@ Here are a few amphibians discussed above:
 		- It prefers to ambush its prey by striking from above or below.
 ## Summary
 
-Amphibians are cold-blooded creatures that live in wet areas such as the Amazon Rainforest. These creatures can range from frogs to salamanders, which thrive in these special habitats. These creatures can also be food for [[antarctica-reptiles|reptiles.]]
+Amphibians are cold-blooded creatures that live in wet areas such as the Amazon Rainforest. These creatures can range from frogs to salamanders, which thrive in these special habitats. These creatures can also be food for [[asia-reptiles|reptiles.]]

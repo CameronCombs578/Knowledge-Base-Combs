@@ -4,12 +4,13 @@ title: Fish Habitats and Adaptations in Australia
 ---
 date: 2025-10-2
 ---
+Click [[australia-habitats-animals/index|here]] to return to the index file for this category.
 # Introduction
 
 >"In every drop of water, there is a story of life."
 >— Leena Arif
 
-Fish are creatures that live underwater and in environments unlike animals on the surface. These creatures are cold-blooded, limbless, and breathe underwater. Many [[antarctica-birds|birds]] eat these kinds of creatures. This section covers fish habitats and adaptations in Australia.
+Fish are creatures that live underwater and in environments unlike animals on the surface. These creatures are cold-blooded, limbless, and breathe underwater. Many [[australia-birds|birds]] eat these kinds of creatures. This section covers fish habitats and adaptations in Australia.
 ### Habitats
 
 Fish can live in rivers, ponds, and oceans. Places such as the Amazon River are rich in diverse kinds of fish. Nearly every large portion of water contains some amount of fish.

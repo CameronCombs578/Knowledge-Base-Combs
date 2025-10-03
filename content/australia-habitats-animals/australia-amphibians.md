@@ -4,6 +4,7 @@ title: Amphibians' Habitats and Adaptations in Australia
 ---
 date: 2025-10-1
 ---
+Click [[australia-habitats-animals/index|here]] to return to the index file for this category.
 # Introduction
 
 >_"Amphibians are the environmental canaries in the coal mine, telling us when ecosystems are in trouble."_ 
@@ -41,4 +42,4 @@ Here are a few amphibians that live in Australia:
 		- This animal uses its hindlegs to run after prey and away from predator.
 ## Summary
 
-Amphibians are cold-blooded creatures that live in wet areas. These creatures can range from frogs to salamanders, which thrive in these special habitats. These creatures can also be food for [[antarctica-reptiles|reptiles.]]
+Amphibians are cold-blooded creatures that live in wet areas. These creatures can range from frogs to salamanders, which thrive in these special habitats. These creatures can also be food for [[australia-reptiles|reptiles]].

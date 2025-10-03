@@ -4,6 +4,7 @@ title: Birds' Habitats and Adaptations in Europe
 ---
 date: 2025-10-1
 ---
+Click [[europe-habitats-animals/index|here]] to return to the index file for this category.
 # Introduction
 
 >_"Birds are indicators of the environment. If they are in trouble, we know we’ll soon be in trouble."_ 

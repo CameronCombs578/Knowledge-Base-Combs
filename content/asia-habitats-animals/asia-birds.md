@@ -4,6 +4,7 @@ title: Birds' Habitats and Adaptations in Asia
 ---
 date: 2025-10-1
 ---
+Click [[asia-habitats-animals/index|here]] to return to the index file for this category.
 # Introduction
 
 >_"Birds are indicators of the environment. If they are in trouble, we know we’ll soon be in trouble."_ 
@@ -15,7 +16,7 @@ Birds are creatures unlike any others. With their unique ability to soar across 
 Birds live in diverse places across the world. In Asia, birds can live in wetlands, forests, mountains, and grasslands. Places such as the rainforest, mountains, and coasts. These creatures are able to adapt to their surroundings in amazing ways.
 ### Adaptations
 
-Birds are able to use their flying abilities to catch creatures in the air. Some are able to dive into bodies of water to catch creatures. These are a few ways that these creatures survive in their environments.
+Birds are able to use their flying abilities to catch creatures in the air. Some are able to dive into bodies of water to catch creatures like [[asia-fish|fish]]. These are a few ways that these creatures survive in their environments.
 ### Animals
 
 Some birds that live in forests include:  

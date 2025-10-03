@@ -4,6 +4,7 @@ title: Birds' Habitats and Adaptations in Antarctica
 ---
 date: 2025-10-1
 ---
+Click [[antarctica-habitats-animals/index|here]] to return to the index file for this category.
 # Introduction
 
 >_"Birds are indicators of the environment. If they are in trouble, we know we’ll soon be in trouble."_ 
@@ -39,4 +40,4 @@ Some birds that live in forests include:
 		- These creatures have small feathers that are waterproof.
 ## Summary
 
-Birds are unique creatures located in Antarctica. Their ability to fly in environments such as forests, mountains, and others makes them stand out from other creatures living in Antarctica.
+Birds are unique creatures located in Antarctica. Their ability to fly in environments such as forests, mountains, and others makes them stand out from other creatures living in Antarctica. These creatures can also be food for [[europe-reptiles|reptiles]].

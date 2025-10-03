@@ -4,6 +4,7 @@ title: Mammals' Habitats and Adaptations in the Americas
 ---
 date: 2025-10-1
 ---
+Click [[americas-habitats-animals/index|here]] to return to the index file for this category.
 # Introduction
 
 >_"The greatness of a nation and its moral progress can be judged by the way its animals are treated."_

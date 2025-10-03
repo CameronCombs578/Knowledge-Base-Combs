@@ -4,6 +4,7 @@ title: Mammals' Habitats and Adaptations in Australia
 ---
 date: 2025-10-1
 ---
+Click [[australia-habitats-animals/index|here]] to return to the index file for this category.
 # Introduction
 
 >_"The greatness of a nation and its moral progress can be judged by the way its animals are treated."_
@@ -28,7 +29,7 @@ Here is an mammal that lives in Australia.
 	- Location: North-west parts of Australia.
 	- Adaptation:
 		- To battle the heat in its habitats, this creature spends the day underground and comes to the surface during the night when temperature have dropped.
-	- Food: This animal eats food such as insects, worms, and seeds.
+	- Food: This animal eats food such as insects, worms, and seeds, which are also eaten by [[australia-birds|birds]].
 	- Amazing Fact: 
 		- This animal uses its snout to find its food in the sand.
 ## Summary

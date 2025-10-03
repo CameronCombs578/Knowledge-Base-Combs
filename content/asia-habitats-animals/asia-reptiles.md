@@ -4,6 +4,7 @@ title: Reptiles' Habitats and Adaptations in Asia
 ---
 date: 2025-10-1
 ---
+Click [[asia-habitats-animals/index|here]] to return to the index file for this category.
 # Introduction
 
 >“Reptiles are survivors; they carry with them the history of ancient worlds.”

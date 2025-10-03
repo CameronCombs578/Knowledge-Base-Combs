@@ -4,12 +4,13 @@ title: Fish Habitats and Adaptations in Asia
 ---
 date: 2025-10-2
 ---
+Click [[asia-habitats-animals/index|here]] to return to the index file for this category.
 # Introduction
 
 >"In every drop of water, there is a story of life."
 >— Leena Arif
 
-Fish are creatures that live underwater and in environments unlike animals on the surface. These creatures are cold-blooded, limbless, and breathe underwater. Many [[antarctica-birds|birds]] eat these kinds of creatures. This section covers fish habitats and adaptations in Asia.
+Fish are creatures that live underwater and in environments unlike animals on the surface. These creatures are cold-blooded, limbless, and breathe underwater. Many [[asia-birds|birds]] eat these kinds of creatures. This section covers fish habitats and adaptations in Asia.
 ### Habitats
 
 Fish can live in rivers, ponds, and oceans. Places such as the Amazon River are rich in diverse kinds of fish. Nearly every large portion of water contains some amount of fish.
@@ -31,4 +32,4 @@ Here is a fish that lives in Asia
 		- They lay their eggs in ribbons that stick to objects.
 ## Summary
 
-Fish in Asia are amazing creatures ranging in size and color. Fish can be found in practically every large body of water, making them great creatures to study.
+Fish in Asia are amazing creatures ranging in size and color. Fish can be found in practically every large body of water, making them great creatures to study. Many [[asia-reptiles|reptiles]] can eat fish.

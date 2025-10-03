@@ -4,6 +4,7 @@ title: Reptiles' Habitats and Adaptations in Europe
 ---
 date: 2025-10-1
 ---
+Click [[europe-habitats-animals/index|here]] to return to the index file for this category.
 # Introduction
 
 >“Reptiles are survivors; they carry with them the history of ancient worlds.” 

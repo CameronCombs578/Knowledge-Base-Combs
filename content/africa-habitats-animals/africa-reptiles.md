@@ -4,6 +4,7 @@ title: Reptiles' Habitats and Adaptations in Africa
 ---
 date: 2025-10-1
 ---
+Click [[africa-habitats-animals/index|here]] to return to the index file for this category.
 # Introduction
 
 >“Reptiles are survivors; they carry with them the history of ancient worlds.” 
@@ -41,4 +42,4 @@ Below are reptiles discussed in detail:
 		- Even though these creatures are huge, there eggs are around 2" long.
 ## Summary
 
-Reptiles are rough-skinned creatures that live in forests, deserts, swamps, and other environments. They are equipped with special skin allowing them to live in diverse environments. These are amazing creatures that live in Africa.
+Reptiles are rough-skinned creatures that live in forests, deserts, swamps, and other environments. They are equipped with special skin allowing them to live in diverse environments. These are amazing creatures that live in Africa. [[africa-amphibians|Amphibians]] have the opposite blood type.
